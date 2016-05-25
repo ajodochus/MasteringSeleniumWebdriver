@@ -1,0 +1,8 @@
+• Oracle JDK8
+• Maven 3
+• IntelliJ IDEA 14
+• JMeter
+• Zed Attack Proxy
+• boot2docker or Docker
+• Mozilla Firefox
+• Google Chrome
